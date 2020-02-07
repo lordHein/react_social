@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+e782d0bf14cc59230c6e85321d6678b21e91ea4d refs/remotes/origin/deploy
+248722811234c6c8b03e6c3ac296d2218dbdb0b2 refs/remotes/origin/gh-pages
+ce117340c25839b5938b6d9c0ee4196be51fadf5 refs/remotes/origin/heroku
+29f976ada8af3e15b4fffbd3e69296fd578feed8 refs/remotes/origin/master
